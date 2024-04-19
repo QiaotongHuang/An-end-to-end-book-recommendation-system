@@ -1,0 +1,5 @@
+CherryPy==18.9.0
+Flask==3.0.2
+PasteScript==3.5.1
+numpy==1.26.4
+pyspark==3.5.1
