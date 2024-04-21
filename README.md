@@ -26,6 +26,7 @@ For more information on Create React App, refer to [the documentation](https://f
 ```bash
 pip install -r requirements.txt
 python server.py
+```
 
 ### Usage
 - Clone the repository.
