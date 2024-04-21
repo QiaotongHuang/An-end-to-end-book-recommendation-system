@@ -35,7 +35,7 @@ python server.py
 - Run the server using python server.py.
 
 ## System Design
-The recommendation system follows a client-server architecture. The frontend is built using React, providing an intuitive user interface for interacting with the recommendation algorithms. The backend is implemented in Python using Flask, serving as the server-side logic for processing requests, executing the recommendation algorithms, and communicating with the database.
+The recommendation system follows a client-server architecture. The frontend is built using React, providing an intuitive user interface for interacting with the recommendation algorithms. The backend is implemented in Python using Flask, serving as the server-side logic for processing requests, executing the recommendation algorithms, and communicating with the database.  
 The system is designed to be scalable and maintainable. It utilizes industry-standard libraries and frameworks, such as React for the frontend and Flask for the backend, ensuring robustness and ease of maintenance. Additionally, the modular structure of the codebase allows for easy extension and customization of the recommendation algorithms.
 
 <img width="1124" alt="image" src="https://github.com/QiaotongHuang/An-end-to-end-book-recommendation-system/assets/113825112/dd347ae2-5af3-429f-a2a7-338eeb896447">
